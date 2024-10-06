@@ -1,0 +1,11 @@
+.env
+.venv
+poetry.lock
+pyproject.toml
+sst.log
+__pycache__
+stt.log
+images
+documents
+chroma_index
+data
